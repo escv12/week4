@@ -1,0 +1,432 @@
+.project-head{
+    color: #000;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 30px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+
+}
+
+.project-describe{
+    border: 1px #e4e4e4 solid;
+    margin: 0px 30px 30px 30px;
+}
+
+.p-h{
+    color: #000;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.a-h{
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+    display: flex;
+    
+}
+
+.col{
+    font-size: 12px;
+    color: #559bfa;
+    margin-left: 5px;
+}
+
+.describe{
+    color: #000;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 12px;
+    line-height: 1.8;
+    
+}
+
+.search{
+    border: 1px #e4e4e4 solid;
+    height: 350px;
+    width: 25%;
+    margin-left: 30px;
+}
+
+.sss .search-num{
+    border: 1px #e0e0e0 solid;
+    height: 17px;
+    width: 17px;
+    font-size: 10px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 16px;
+    color: #666;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.sss .num{
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+    width: 60%;
+    padding-top: 16px;
+
+
+}
+
+.sss .num :hover{
+text-decoration: underline;
+
+}
+
+.sss{
+    display: flex;
+
+}
+
+li{
+
+    padding-top: 20px;
+    list-style-type: disc;
+    margin-left: 40px;
+
+
+}
+
+.project-describe .web-toon{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000;
+}
+
+.project-describe .web{
+
+    font-size: 12px;
+    color: #000;
+
+}
+
+.web-toon .web-toon1{
+    font-size: 12px;
+    font-weight: bold;
+    color: #559bfa;
+    text-decoration: none;
+
+}
+
+.web .red-web{
+    font-size: 12px;
+    color: #ec5336;
+}
+
+.web .web-link{
+    font-size: 12px;
+    text-decoration: underline;
+    color: #559bfa;
+}
+
+.project-describe .web-link{
+    font-size: 12px;
+    text-decoration: underline;
+    color: #559bfa;
+}
+
+.project-describe .img-news{
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.news-des .news-link{
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #00c;
+}
+
+.project-describe .news-des{
+    font-size: 12px;
+    color: #000;
+    height: 100%;
+    padding: 20px 20px 20px 110px;
+    line-height: 1.6;
+    
+}
+
+.project-describe .hr.line{
+    color: #e4e4e4;
+}
+
+.news-link2{
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #00c;
+    margin-left: 20px;
+    margin-bottom: 16px;
+    
+}
+
+.news-des2{
+    margin-left: 20px;
+    font-size: 12px;
+    color: #000;
+    line-height: 1.6;
+}
+
+.webtoon-img{
+    margin: 20px 0px 0px 20px;
+    display: inline-block;
+
+}
+
+
+.webtoon-img .under-1{
+    text-decoration: none;
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+ 
+}
+
+.webtoon-img .under-2{
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+}
+
+.webtoon-img .under-1:hover{
+    text-decoration: underline;
+}
+
+.under-1 .cut-toon{
+
+    border: 1px #71b036 solid;
+    background: #80c83d;
+    font-size: 10px;
+    color: #fff;
+    
+
+}
+
+.smarttoon{
+
+    border: 1px #df4e28 solid;
+    background: #ec5336;
+    font-size: 10px;
+    color: #fff;
+
+}
+
+
+a { text-decoration: none; color: black; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+
+table.type01 {
+    width: 100%;
+    margin: auto;
+    margin-top: 5px;
+    border-collapse: collapse;
+    border: 1px #e4e4e4;
+    background-color: white;
+    font-size: 12px;
+    color: #555;
+  
+  }
+  
+  table.type01 .th-head{
+    background-color: #fbfbfb;
+    font-weight: bold;
+  
+  
+  }
+  
+  
+  
+  table.type01 th {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    font-weight: bold;
+  
+  
+  }
+  
+  table.type01 td {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  table.type02 {
+    width: 100%;
+    margin: auto;
+    margin-top: 5px;
+    border-collapse: collapse;
+    border: 1px #e4e4e4;
+    background-color: #fbfbfb;
+    font-size: 12px;
+    color: #555;
+  }
+  
+  table.type02 thead tr {
+    width: 25%;
+    text-align: center;
+    border-top: 2px solid #a5a5a5;
+    border-bottom: 1px solid #e4e4e4;
+  }
+  table.type02 tbody tr {
+    width: 25%;
+    text-align: right;
+    background-color: white;
+  }
+  table.type02 tfoot tr {
+    width: 25%;
+    border-top: 1px solid #a5a5a5;
+    border-bottom: 1px solid #e4e4e4;
+    text-align: right;
+    font-weight: bold;
+    background-color: white;
+    padding:12px
+  }
+  
+  table.type02 td {
+    width: 25%;
+    padding: 5px;
+  }
+  table.type02 th {
+    width: 25%;
+    padding: 5px;
+  }
+  
+  .table-head{
+  color: #000;
+  font-weight: bold;
+  font-size: 14px;
+  padding-bottom: 12px;
+  
+  
+  }
+
+  
+.sign {
+    width: 100%;
+    border: #d1d1d1 1px solid;
+}
+  .sign .content {
+    padding: 25px;
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    border-top: #d1d1d1 1px solid;
+    
+  }
+
+  .sign .box {
+    border: #e4e4e4 1px solid;
+    padding: 20px 20px;
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    background: #f7f7f7;
+    margin-top: 20px;
+
+  }
+
+  .id{
+    margin-bottom: 10px;
+    margin-top: 16px;
+  }
+
+ .sign .id-box {
+     width: 100%;
+     height: 35px;
+     border-color: #e4e4e4;
+     border-width: 1px;
+     border-top: 1px solid #e4e4e4;
+     border-left: 1px solid #e4e4e4;
+     
+ }
+
+
+ .con {
+   border: 1px #e4e4e4 solid;
+   width: 33%;
+   color: #000;
+   font-size: 12px;
+   height: 35px;
+   padding-top: 8px;
+   padding-left: 5px;
+ }
+
+ .sign input[type="radio"].female {
+   margin-left: 7%;
+   color: #000;
+   font-size: 12px;
+ }
+
+ .sign .id-boxs {
+  width: 100%;
+  height: 32px;
+  border-color: #e4e4e4;
+  border-width: 1px;
+  border-top: 1px solid #e4e4e4;
+  border-left: 1px solid #e4e4e4;
+}
+
+.sign .flex {
+  display: flex;
+}
+
+.sign .getnumber {
+  margin-left: 10px;
+  height: 32px;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  width: 15%;
+  border: 1px #08a600 solid;
+  background-color: #4ec53d;
+}
+
+ .sign .input {
+  width: 100%;
+  height: 32px;
+  border-color: #e4e4e4;
+  border-width: 1px;
+  border-top: 1px solid #e4e4e4;
+  border-left: 1px solid #e4e4e4;
+  margin-top:5px;
+ }
+
+ label {
+  display: inline-block;
+  width:12.5%;
+  margin-left:-5px;
+  color: #000;
+  font-size: 12px;
+ }
+
+ textarea {
+  resize: none;
+  width: 100%;
+  border: 1px #e4e4e4 solid;
+ }
+
+ .sign .joinbtn {
+  height: 32px;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  width: 100%;
+  border: 1px #08a600 solid;
+  background-color: #4ec53d;
+  margin-top: 12px;
+ }
+
+
